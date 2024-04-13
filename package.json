@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-lab",
+  "version": "1.0.0",
+  "description": "lab homepage",
+  "author": "sunshuai",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --project /home/boy/Downloads/mylab/blockchain-lab/",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "serve": "vue-cli-service serve --host 0.0.0.0"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "element-ui": "^2.13.2",
+    "nuxt": "^2.14.0"
+  },
+  "devDependencies": {
+    "element-theme-chalk": "^2.12.0"
+  }
+}
