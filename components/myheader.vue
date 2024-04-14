@@ -18,7 +18,7 @@
               </div>
             </el-col>
             <meta name="viewport" content="width=device-width, initial-scale=1">
-            <el-col :span="2" class="hidden-xs-only smaller-text">
+            <el-col :span="2" class="hidden-xs-only">
               <div class="logo">
                 <p style="">ESlab</p>
               </div>
