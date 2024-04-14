@@ -12,6 +12,7 @@
               <li :class="{active: active===1}" @click="scrollTo('#h1-master-2021')">2021级硕士研究生</li>
               <li :class="{active: active===1}" @click="scrollTo('#h1-master-2021')">2022级硕士研究生</li>
               <li :class="{active: active===1}" @click="scrollTo('#h1-master-2023')">2023级硕士研究生</li>
+              <li :class="{active: active===1}" @click="scrollTo('#h1-master-2023')">2024级硕士研究生</li>
             </ul>
 
           </div>
@@ -78,7 +79,7 @@
           <h1 id="h1-master-2022">2022级硕士研究生</h1>
           <member
             name="孙博瀚"
-            avatar="/avatar/sunbohan.jpg"
+            avatar="/avatar/bohan.jpg"
             letter="L"
             position="2023级硕士研究生"
             email="583238141@qq.com"
@@ -105,6 +106,15 @@
             position="2023级硕士研究生"
             email="583238141@qq.com"
             description="2023年毕业华东师范于大学天华学院，获计算机科学与技术学士学位。现就读于东北大学计算机科学与技术专业，导师是刘松冉特聘助理教授。"
+          ></member>
+           <h1 id="h1-master-2022">2024级硕士研究生</h1>
+          <member
+            name="徐家福"
+            avatar="/avatar/jiafu.jpg"
+            letter="L"
+            position="2023级硕士研究生"
+            email="583238141@qq.com"
+            description="目前就读于河北大学计算机科学与技术专业，已推免至东北大学智慧系统实验室嵌入式研究组"
           ></member>
           </body>
         </el-col>
