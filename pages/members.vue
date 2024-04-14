@@ -82,7 +82,7 @@
             avatar="/avatar/bohan.jpg"
             letter="L"
             position="2023级硕士研究生"
-            email="583238141@qq.com"
+            email="bohan@qq.com"
             description="2022年毕业于合肥工业大学，获学士学位。现就读于东北大学计算机科学与技术专业，导师是刘松冉特聘助理教授。"
           ></member>
 
@@ -104,7 +104,7 @@
             avatar="/avatar/chenjingbo.jpg"
             letter="L"
             position="2023级硕士研究生"
-            email="583238141@qq.com"
+            email="jingbo@qq.com"
             description="2023年毕业华东师范于大学天华学院，获计算机科学与技术学士学位。现就读于东北大学计算机科学与技术专业，导师是刘松冉特聘助理教授。"
           ></member>
            <h1 id="h1-master-2022">2024级硕士研究生</h1>
@@ -113,7 +113,7 @@
             avatar="/avatar/jiafu.jpg"
             letter="L"
             position="2023级硕士研究生"
-            email="583238141@qq.com"
+            email="FAIZ030612@163.com"
             description="目前就读于河北大学计算机科学与技术专业，已推免至东北大学智慧系统实验室嵌入式研究组"
           ></member>
           </body>
