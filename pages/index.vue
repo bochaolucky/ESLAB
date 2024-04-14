@@ -6,7 +6,7 @@
     <el-main class="main-content">
     
       <el-row :gutter="0" type="flex" justify="center">
-        <el-col :xs="20" :sm="9" :md="8" :lg="14" :xl="14">
+        <el-col :xs="14" :sm="9" :md="8" :lg="14" :xl="14">
           <el-divider></el-divider>
 
           <h1>嵌入式系统研究组</h1>
@@ -28,7 +28,7 @@
               </p>
             </li>
           </ul>
-          <h1>最新成果</h1>
+          <h1>最新成果（这里目前不是咱们的成果）</h1>
           <h3 style="margin-top: 10px">FedCoin: A Peer-to-Peer Payment System for Federated Learning</h3>
    
           <p style="display: flex;align-items: center;margin-top: 10px">视频演示：</p>
