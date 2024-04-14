@@ -18,7 +18,7 @@
               </div>
             </el-col>
             <meta name="viewport" content="width=device-width, initial-scale=1">
-            <el-col :span="2" class="hidden-xs-only">
+            <el-col :span="2" class="hidden-xs-only smaller-text">
               <div class="logo">
                 <p style="">ESlab</p>
               </div>
@@ -128,7 +128,7 @@
 
   .logo {
     height: 100%;
-    min-width: 120px;
+    min-width: 90px;
     display: inline-flex;
     justify-content: center;
     align-items: center;
