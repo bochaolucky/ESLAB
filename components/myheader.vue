@@ -128,11 +128,11 @@
 
   .logo {
     height: 100%;
-    min-width: 90px;
+    min-width: 110px;
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    font-size: 6rem;
+    font-size: 5rem;
     font-family: 'Times New Roman', serif;
     color: purple;
     overflow: hidden;
