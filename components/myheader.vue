@@ -20,7 +20,7 @@
 
             <el-col :span="2" class="hidden-xs-only">
               <div class="logo">
-                <p style="">B&R</p>
+                <p style="">ESLab</p>
               </div>
             </el-col>
 
@@ -133,7 +133,7 @@
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    font-size: 6rem;
+    font-size: 4rem;
     font-family: 'Times New Roman', serif;
     color: purple;
     overflow: hidden;
