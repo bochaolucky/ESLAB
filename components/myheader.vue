@@ -17,14 +17,14 @@
                 </nuxt-link>
               </div>
             </el-col>
-
+            <meta name="viewport" content="width=device-width, initial-scale=1">
             <el-col :span="2" class="hidden-xs-only">
               <div class="logo">
                 <p style="">ESlab</p>
               </div>
             </el-col>
 
-            <el-col :xs="11" :sm="10" :md="9" :lg="8" :xl="7">
+            <el-col :xs="9" :sm="9" :md="9" :lg="9" :xl="9">
               <div v-for="item in titles2"
                    v-bind:class="{'selected':index===item.key,'mousein':mouseindex===item.key}"
                    @mouseenter="mouseenter(item.key)" @mouseleave="mouseleave()" class="title-item">
@@ -45,7 +45,6 @@
 
 
 </template>
-
 
 <script>
   export default {
