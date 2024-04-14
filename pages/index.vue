@@ -6,7 +6,7 @@
     <el-main class="main-content">
     
       <el-row :gutter="0" type="flex" justify="center">
-        <el-col :xs="14" :sm="9" :md="8" :lg="14" :xl="14">
+        <el-col :xs="14" :sm="14" :md="14" :lg="14" :xl="14">
           <el-divider></el-divider>
 
           <h1>嵌入式系统研究组</h1>
